@@ -1,2 +1,2 @@
 # database
-Project for OOP course @ FMI - 2020
+Project for OOP course @FMI - 2020
